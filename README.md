@@ -1,5 +1,7 @@
 # EventManager
 
+Project Created to improve my design, bootstrap, .NET Core and Angular skillz
+
 # Technology Stack:
 • .NET Core
 
