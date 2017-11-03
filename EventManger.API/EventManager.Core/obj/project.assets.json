@@ -2266,19 +2266,6 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XPath.XDocument.dll": {}
         }
-      },
-      "EventManager.Core/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v1.1",
-        "dependencies": {
-          "Microsoft.NETCore.App": "1.1.2"
-        },
-        "compile": {
-          "bin/placeholder/EventManager.Core.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/EventManager.Core.dll": {}
-        }
       }
     }
   },
@@ -7042,16 +7029,10 @@
         "system.xml.xpath.xdocument.4.0.1.nupkg.sha512",
         "system.xml.xpath.xdocument.nuspec"
       ]
-    },
-    "EventManager.Core/1.0.0": {
-      "type": "project",
-      "path": "../EventManger.API/EventManager.Core/EventManager.Core.csproj",
-      "msbuildProject": "../EventManger.API/EventManager.Core/EventManager.Core.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v1.1": [
-      "EventManager.Core >= 1.0.0",
       "Microsoft.NETCore.App >= 1.1.2"
     ]
   },
@@ -7064,11 +7045,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Projects\\EventManager\\EventManager.Models\\EventManager.Models.csproj",
-      "projectName": "EventManager.Models",
-      "projectPath": "C:\\Projects\\EventManager\\EventManager.Models\\EventManager.Models.csproj",
+      "projectUniqueName": "C:\\Projects\\EventManager\\EventManger.API\\EventManager.Core\\EventManager.Core.csproj",
+      "projectName": "EventManager.Core",
+      "projectPath": "C:\\Projects\\EventManager\\EventManger.API\\EventManager.Core\\EventManager.Core.csproj",
       "packagesPath": "C:\\Users\\alexa\\.nuget\\packages\\",
-      "outputPath": "C:\\Projects\\EventManager\\EventManager.Models\\obj\\",
+      "outputPath": "C:\\Projects\\EventManager\\EventManger.API\\EventManager.Core\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\alexa\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -7083,11 +7064,7 @@
       },
       "frameworks": {
         "netcoreapp1.1": {
-          "projectReferences": {
-            "C:\\Projects\\EventManager\\EventManger.API\\EventManager.Core\\EventManager.Core.csproj": {
-              "projectPath": "C:\\Projects\\EventManager\\EventManger.API\\EventManager.Core\\EventManager.Core.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       }
     },
