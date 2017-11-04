@@ -1,4 +1,5 @@
 ﻿using System.Collections.Generic;
+using EventManager.Core.CoreEntities;
 
 namespace EventManager.Models.Entities
 {
@@ -10,7 +11,6 @@ namespace EventManager.Models.Entities
         public decimal Price { get; set; }
         public int MaximumGuestsAllowed { get; set; }
         public string Address { get; set; }
-        public List<Organizator> Organizators { get; set; }
-        public List<Member> Members { get; set; }
+        public List<User> User { get; set; }
     }
 }

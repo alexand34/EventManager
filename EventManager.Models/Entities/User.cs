@@ -1,5 +1,6 @@
 ﻿using System;
-using EventManager.Models.StaticMembers;
+using EventManager.Core.CoreEntities;
+using EventManager.Core.StaticMembers;
 
 namespace EventManager.Models.Entities
 {
@@ -10,6 +11,8 @@ namespace EventManager.Models.Entities
         public string PhoneNumber { get; set; }
         public bool EmailConfirmed { get; set; }
         public bool PhoneConfirmed { get; set; }
+        public string Password { get; set; }
+        public Roles Role { get; set; }
         public string City { get; set; }
         public string Address { get; set; }
         public DateTime DateofBirth { get; set; }

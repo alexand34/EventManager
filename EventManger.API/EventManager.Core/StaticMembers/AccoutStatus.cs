@@ -1,4 +1,4 @@
-﻿namespace EventManager.Models.StaticMembers
+﻿namespace EventManager.Core.StaticMembers
 {
     public enum AccoutStatus
     {

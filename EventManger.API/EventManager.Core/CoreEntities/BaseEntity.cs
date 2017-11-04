@@ -1,4 +1,4 @@
-﻿namespace EventManager.Models.Entities
+﻿namespace EventManager.Core.CoreEntities
 {
     public class BaseEntity
     {

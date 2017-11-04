@@ -4,4 +4,13 @@
     <TargetFramework>netcoreapp1.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Azure.DocumentDB.Core" Version="1.6.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\EventManager.Common\EventManager.Common.csproj" />
+    <ProjectReference Include="..\EventManager.Core\EventManager.Core.csproj" />
+  </ItemGroup>
+
 </Project>
