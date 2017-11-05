@@ -10,5 +10,6 @@ namespace EventManager.Core.Core
         IEnumerable<T> GetAll();
         T GetById(int id);
         void Edit(T entity);
+        void SaveChanges();
     }
 }

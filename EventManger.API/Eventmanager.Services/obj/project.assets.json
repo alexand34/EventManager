@@ -2480,19 +2480,6 @@
           "lib/netstandard1.3/System.Xml.XPath.XDocument.dll": {}
         }
       },
-      "EventManager.Common/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v1.1",
-        "dependencies": {
-          "Microsoft.NETCore.App": "1.1.2"
-        },
-        "compile": {
-          "bin/placeholder/EventManager.Common.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/EventManager.Common.dll": {}
-        }
-      },
       "EventManager.Core/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v1.1",
@@ -7602,11 +7589,6 @@
         "system.xml.xpath.xdocument.nuspec"
       ]
     },
-    "EventManager.Common/1.0.0": {
-      "type": "project",
-      "path": "../EventManager.Common/EventManager.Common.csproj",
-      "msbuildProject": "../EventManager.Common/EventManager.Common.csproj"
-    },
     "EventManager.Core/1.0.0": {
       "type": "project",
       "path": "../EventManager.Core/EventManager.Core.csproj",
@@ -7615,7 +7597,6 @@
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v1.1": [
-      "EventManager.Common >= 1.0.0",
       "EventManager.Core >= 1.0.0",
       "Microsoft.Azure.DocumentDB.Core >= 1.6.0",
       "Microsoft.NETCore.App >= 1.1.2"
@@ -7650,9 +7631,6 @@
       "frameworks": {
         "netcoreapp1.1": {
           "projectReferences": {
-            "C:\\Projects\\EventManager\\EventManger.API\\EventManager.Common\\EventManager.Common.csproj": {
-              "projectPath": "C:\\Projects\\EventManager\\EventManger.API\\EventManager.Common\\EventManager.Common.csproj"
-            },
             "C:\\Projects\\EventManager\\EventManger.API\\EventManager.Core\\EventManager.Core.csproj": {
               "projectPath": "C:\\Projects\\EventManager\\EventManger.API\\EventManager.Core\\EventManager.Core.csproj"
             }
