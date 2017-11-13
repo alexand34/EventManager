@@ -7,6 +7,7 @@ Project Created to improve my design, bootstrap, .NET Core and Angular skillset
   <li>[✘] .NET Core</li> 
   <li>[✘] Angular 4</li>
   <li>[✘] Bootstrap 4</li>
+  <li>[✘] Azure Cosmos Db</li>
 </ul>
 
 # TODO:
