@@ -1,5 +1,0 @@
-C:\Projects\EventManager\EventManger.API\Eventmanager.Services\bin\Debug\netcoreapp1.1\Eventmanager.Services.deps.json
-C:\Projects\EventManager\EventManger.API\Eventmanager.Services\bin\Debug\netcoreapp1.1\Eventmanager.Services.dll
-C:\Projects\EventManager\EventManger.API\Eventmanager.Services\obj\Debug\netcoreapp1.1\Eventmanager.Services.csprojResolveAssemblyReference.cache
-C:\Projects\EventManager\EventManger.API\Eventmanager.Services\obj\Debug\netcoreapp1.1\Eventmanager.Services.csproj.CoreCompileInputs.cache
-C:\Projects\EventManager\EventManger.API\Eventmanager.Services\obj\Debug\netcoreapp1.1\Eventmanager.Services.AssemblyInfo.cs

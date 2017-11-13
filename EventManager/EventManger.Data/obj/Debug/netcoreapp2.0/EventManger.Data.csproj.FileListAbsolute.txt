@@ -1,0 +1,4 @@
+C:\Projects\EventManager\EventManager\EventManger.Data\bin\Debug\netcoreapp2.0\EventManager.Core.dll
+C:\Projects\EventManager\EventManager\EventManger.Data\obj\Debug\netcoreapp2.0\EventManger.Data.csproj.CoreCompileInputs.cache
+C:\Projects\EventManager\EventManager\EventManger.Data\obj\Debug\netcoreapp2.0\EventManger.Data.AssemblyInfoInputs.cache
+C:\Projects\EventManager\EventManager\EventManger.Data\obj\Debug\netcoreapp2.0\EventManger.Data.AssemblyInfo.cs

@@ -1,0 +1,11 @@
+C:\Projects\EventManager\EventManager\EventManager.API\bin\Debug\netcoreapp2.0\EventManager.API.deps.json
+C:\Projects\EventManager\EventManager\EventManager.API\bin\Debug\netcoreapp2.0\EventManager.API.runtimeconfig.json
+C:\Projects\EventManager\EventManager\EventManager.API\bin\Debug\netcoreapp2.0\EventManager.API.runtimeconfig.dev.json
+C:\Projects\EventManager\EventManager\EventManager.API\bin\Debug\netcoreapp2.0\EventManager.API.dll
+C:\Projects\EventManager\EventManager\EventManager.API\bin\Debug\netcoreapp2.0\EventManager.API.pdb
+C:\Projects\EventManager\EventManager\EventManager.API\obj\Debug\netcoreapp2.0\EventManager.API.csprojResolveAssemblyReference.cache
+C:\Projects\EventManager\EventManager\EventManager.API\obj\Debug\netcoreapp2.0\EventManager.API.csproj.CoreCompileInputs.cache
+C:\Projects\EventManager\EventManager\EventManager.API\obj\Debug\netcoreapp2.0\EventManager.API.AssemblyInfoInputs.cache
+C:\Projects\EventManager\EventManager\EventManager.API\obj\Debug\netcoreapp2.0\EventManager.API.AssemblyInfo.cs
+C:\Projects\EventManager\EventManager\EventManager.API\obj\Debug\netcoreapp2.0\EventManager.API.dll
+C:\Projects\EventManager\EventManager\EventManager.API\obj\Debug\netcoreapp2.0\EventManager.API.pdb

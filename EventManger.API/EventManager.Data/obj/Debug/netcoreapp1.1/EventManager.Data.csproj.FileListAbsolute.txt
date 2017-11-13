@@ -1,4 +1,0 @@
-C:\Projects\EventManager\EventManger.API\EventManager.Data\bin\Debug\netcoreapp1.1\EventManager.Data.deps.json
-C:\Projects\EventManager\EventManger.API\EventManager.Data\bin\Debug\netcoreapp1.1\EventManager.Data.dll
-C:\Projects\EventManager\EventManger.API\EventManager.Data\obj\Debug\netcoreapp1.1\EventManager.Data.csproj.CoreCompileInputs.cache
-C:\Projects\EventManager\EventManger.API\EventManager.Data\obj\Debug\netcoreapp1.1\EventManager.Data.AssemblyInfo.cs
